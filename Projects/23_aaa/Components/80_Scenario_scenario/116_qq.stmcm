@@ -1,0 +1,54 @@
+[
+  {
+    "TempId": 116,
+    "Description": "",
+    "isMobile": false,
+    "TestCaseType": 1,
+    "Steps": [
+      {
+        "TempId": 1568,
+        "StepNumber": 1,
+        "Description": null,
+        "LocatorTypeId": null,
+        "Locator": null,
+        "ActionId": 47,
+        "ParameterName": "Param1",
+        "ParameterValue": "w",
+        "CustomActionId": null,
+        "ObjectDictionaryId": null,
+        "SkipStep": false,
+        "Screenshot": false,
+        "Parameters": [],
+        "UserSays": null,
+        "BotSays": null,
+        "Name": null,
+        "Created": null,
+        "Modified": null
+      },
+      {
+        "TempId": 1569,
+        "StepNumber": 2,
+        "Description": null,
+        "LocatorTypeId": null,
+        "Locator": null,
+        "ActionId": 47,
+        "ParameterName": "Param2",
+        "ParameterValue": "w",
+        "CustomActionId": null,
+        "ObjectDictionaryId": null,
+        "SkipStep": false,
+        "Screenshot": false,
+        "Parameters": [],
+        "UserSays": null,
+        "BotSays": null,
+        "Name": null,
+        "Created": null,
+        "Modified": null
+      }
+    ],
+    "TestSteps": [],
+    "Name": "qq",
+    "Created": null,
+    "Modified": null
+  }
+]
